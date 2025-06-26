@@ -13,6 +13,6 @@ if (file_exists($ruta)) {
 $datos[] = $nuevoDato;
 
 file_put_contents($ruta, json_encode($datos, JSON_PRETTY_PRINT));
-echo "✅ Datos guardados correctamente.";
+echo "✅ Datos guardados perfectamente.";
 ?>
 
