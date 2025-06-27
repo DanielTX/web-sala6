@@ -22,6 +22,7 @@ script.js: Contiene la lógica de interacción en el lado del cliente, como el e
 
 ✅ 3. VIEW (Vista)
 Ubicación: VIEW
+
 Archivos principales:
 
 index.html: Página principal con el formulario para ingresar datos.
@@ -47,5 +48,7 @@ style.css: Archivo de estilos CSS para dar formato y diseño visual a las págin
 ✅ Resumen
 
 Modelo: Gestiona y almacena los datos.
+
 Controlador: Procesa las peticiones, valida y manipula los datos.
+
 Vista: Interfaz de usuario, muestra y recoge información.
