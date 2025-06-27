@@ -2,8 +2,8 @@ Este proyecto es una aplicación web sencilla que permite registrar contactos a 
 Funcionamiento:
 El usuario llena el formulario en index.html.
 
-Los datos se envian al guardar.php.
+medic/Controller/: Contiene los scripts PHP y JavaScript que gestionan la lógica del servidor y la interacción con los datos (guardar.php, obtener_datos.php, script.js).
 
-EL archivo guardar.php guarda la información en un formato data.json.
+medic/Model/: Incluye los archivos de datos, como data.json, donde se almacenan los registros de usuarios o citas.
 
-En lista.html se muestran los datos ya almacenados usando el archivo obtener_datos.php
+medic/VIEW/: Contiene los archivos de la interfaz de usuario, como las páginas HTML (index.html, lista.html) y los estilos CSS (style.css).
