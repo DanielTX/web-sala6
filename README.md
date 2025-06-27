@@ -12,7 +12,9 @@ Almacenar los datos de la aplicación en formato JSON. Este archivo actúa como 
 ✅ 2. Controller (Controlador)
 
 Ubicación: Controller
+
 Archivos principales:
+
 guardar.php: Recibe datos del formulario (probablemente por POST), los valida y los guarda en data.json.
 
 obtener_datos.php: Lee el archivo data.json y devuelve su contenido en formato JSON, permitiendo que la vista muestre los datos actualizados.
