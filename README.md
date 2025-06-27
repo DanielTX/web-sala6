@@ -2,9 +2,11 @@
 El proyecto está organizado en tres capas principales siguiendo el patrón MVC (Modelo-Vista-Controlador):
 
 ✅ 1. Model (Modelo)
+
 Ubicación: data.json
 Función:
 Almacenar los datos de la aplicación en formato JSON. Este archivo actúa como una pequeña base de datos donde se guardan los registros que maneja la aplicación.
+
 ✅ 2. Controller (Controlador)
 Ubicación: Controller
 Archivos principales:
