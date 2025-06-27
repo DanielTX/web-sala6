@@ -1,4 +1,5 @@
 ✅ Explicación de la estructura del proyecto
+
 El proyecto está organizado en tres capas principales siguiendo el patrón MVC (Modelo-Vista-Controlador):
 
 ✅ 1. Model (Modelo)
